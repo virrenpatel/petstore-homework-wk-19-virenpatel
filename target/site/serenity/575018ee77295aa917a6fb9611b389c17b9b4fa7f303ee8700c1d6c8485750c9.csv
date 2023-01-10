@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing different request of user on the petstore application","check user added into petstores and verify status code","SUCCESS","2023-01-10T22:05:57.439Z[Europe/London]","0.0","0.57"
+"Testing different request of user on the petstore application","get  single pet data using by id","SUCCESS","2023-01-10T22:05:58.093Z[Europe/London]","0.0","0.53"
+"Testing different request of user on the petstore application","update pet with name","SUCCESS","2023-01-10T22:05:58.701Z[Europe/London]","0.0","1.01"
+"Testing different request of user on the petstore application","Delete pet with using id and vberify","SUCCESS","2023-01-10T22:05:59.788Z[Europe/London]","0.0","0.5"
